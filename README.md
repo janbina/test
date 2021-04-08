@@ -9,3 +9,5 @@ https://www.seznam.cz/profil/6130dc1e1db8018a54d8c3ce44cb9d7ec0a7794caf2d501d67e
 https://mapy.cz/s/jumoheloba
 
 https://keep.google.com
+
+https://www.google.com
